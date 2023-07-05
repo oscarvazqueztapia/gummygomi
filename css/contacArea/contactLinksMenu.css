@@ -1,0 +1,11 @@
+.contactLinksMenu{
+    background: aqua;    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    height: 10rem;
+    margin-bottom: 2rem;
+    padding-top: 1rem;
+    
+}

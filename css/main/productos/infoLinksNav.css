@@ -1,0 +1,6 @@
+.infoLinksNav{
+    display: flex;
+    flex-direction: column;
+    height: 20rem;
+    align-items: center;
+}

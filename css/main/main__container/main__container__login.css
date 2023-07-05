@@ -1,0 +1,11 @@
+.main__container__login{
+    margin-top: 30%;
+    display: flex;
+    flex-direction: column;
+    height: 7rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+    
+
