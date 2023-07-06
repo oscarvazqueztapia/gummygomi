@@ -1,5 +1,6 @@
 .principalVtas__producto{
-    width: 6rem;
+    width: 10rem;
+    height: fit-content;
     border: 2px solid;
     border-radius: 10px;
     margin-bottom: 1rem;
