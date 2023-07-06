@@ -1,8 +1,8 @@
 .contactFormulario{
-
+    height: 22rem;
     display: flex;
-    flex-direction: column;
-    
-    
-
+    flex-direction: column;    
+    justify-content: space-between;
+    background: aquamarine;
+    border-radius: 5px;
 }

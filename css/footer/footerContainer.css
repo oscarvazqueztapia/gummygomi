@@ -1,0 +1,14 @@
+.footerContainer{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.listaLinksImg{
+    width: 3rem ;
+    border-radius: 30px;
+}
+.listaLinks{
+    display: flex;
+    justify-content: space-between;
+}
