@@ -6,8 +6,8 @@
     margin-bottom: 1rem;
     margin-top: 1rem;
     background: whitesmoke;
-    padding: .2rem;
-    
-
-    
+    padding: .2rem;    
+}
+.check{
+    display: none;
 }

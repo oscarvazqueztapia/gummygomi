@@ -1,0 +1,14 @@
+.checkoutProductos{
+    display: flex;
+    justify-content: space-between;
+}
+.checkoutProductos__div{
+    width: 90vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.checkoutProductos__div__input{
+    width: 40px;
+}
