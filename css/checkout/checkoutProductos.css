@@ -1,5 +1,6 @@
 .checkoutProductos{
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
 }
 .checkoutProductos__div{
@@ -11,4 +12,12 @@
 }
 .checkoutProductos__div__input{
     width: 40px;
+}
+.checkoutTotales{
+    display: flex;
+    flex-direction: column;
+}
+.checkoutTotales__items{
+    display: flex;
+    justify-content: space-between;
 }
