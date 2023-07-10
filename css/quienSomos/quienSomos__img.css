@@ -1,3 +1,36 @@
 .quienSomos__img{
-    width: 100vw;
+    width: 80vw;
+    margin-top: 1rem;
+    border: solid;
+
+}
+.quienesSomosImgContainer{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    background: palevioletred;
+    padding-bottom: 1rem;
+}
+
+
+
+
+
+
+@media screen and (min-width: 768px) {
+    .quienSomos__img{
+        width: 50vw;
+        margin-top: 1rem;
+        border: solid;
+    }
+    .quienesSomosImgContainer{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        flex-wrap: wrap;
+        background: palevioletred;
+        padding-bottom: 1rem;
+    }
+    
 }
