@@ -1,6 +1,21 @@
+
 .productoImagen{
     width: 95vw;
     height: 15rem;
     border-radius: 5px;
     border: solid;
+}
+
+@media screen and (min-width:768px){
+
+    .productoImagen{
+
+        width: 39vw;
+        height: 15rem;
+        border-radius: 5px;
+        border: solid;
+        margin: .3rem;
+    }
+    
+
 }
