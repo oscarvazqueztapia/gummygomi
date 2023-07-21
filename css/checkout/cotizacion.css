@@ -1,0 +1,14 @@
+.cotizacion{
+    display: flex;
+    background: #fed3e9;
+    justify-content: space-evenly;
+
+}
+.cotizacionPoliticas{
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    height: 20rem;
+    justify-content: space-evenly;
+
+}
